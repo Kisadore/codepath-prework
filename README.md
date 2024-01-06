@@ -44,14 +44,16 @@ Favorite Applications & Features:
         
 App Idea:
 
-    I want to test and enhance a certain TikTok feature for my application. Many individuals express their interest to be able to automatically scoll through TikTok, allowing them to watch content without the need for manual scrolling. I aim to try and implement this feature.
+    I want to test and enhance a certain TikTok feature for my application. Many individuals express their interest to be able to automatically scoll through TikTok, allowing them to watch content without the need for manual scrolling. I aim to
+    try and implement this feature.
     
     
 ## Notes
 
 Describe any challenges encountered while building the app:
 
-    One of the challenges I faced was within Step 3 which was Connecting UI to Logic. Looking back now, I was definitally overthinking, but when it came down to the change background function, I kept writing the code outside of the IBAction function, so when I ran the simulator, the background wouldnt change when I pressed the button.
+    One of the challenges I faced was within Step 3 which was Connecting UI to Logic. Looking back now, I was definitally overthinking, but when it came down to the change background function, I kept writing the code outside of the IBAction
+    function, so when I ran the simulator, the background wouldnt change when I pressed the button.
 
 
 
